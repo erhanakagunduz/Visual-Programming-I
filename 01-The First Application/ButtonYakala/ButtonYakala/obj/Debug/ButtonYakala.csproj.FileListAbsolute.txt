@@ -1,0 +1,37 @@
+E:\Huseyin\Islenen\20161126\ButtonYakala\ButtonYakala\bin\Debug\ButtonYakala.exe.config
+E:\Huseyin\Islenen\20161126\ButtonYakala\ButtonYakala\bin\Debug\ButtonYakala.exe
+E:\Huseyin\Islenen\20161126\ButtonYakala\ButtonYakala\bin\Debug\ButtonYakala.pdb
+E:\Huseyin\Islenen\20161126\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.Form1.resources
+E:\Huseyin\Islenen\20161126\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.Properties.Resources.resources
+E:\Huseyin\Islenen\20161126\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.csproj.GenerateResource.Cache
+E:\Huseyin\Islenen\20161126\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.exe
+E:\Huseyin\Islenen\20161126\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.pdb
+C:\Users\H20\Desktop\windows form\ButtonYakala\ButtonYakala\bin\Debug\ButtonYakala.exe.config
+C:\Users\H20\Desktop\windows form\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.exe
+C:\Users\H20\Desktop\windows form\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.pdb
+C:\Users\H20\Desktop\windows form\ButtonYakala\ButtonYakala\bin\Debug\ButtonYakala.exe
+C:\Users\H20\Desktop\windows form\ButtonYakala\ButtonYakala\bin\Debug\ButtonYakala.pdb
+C:\Users\H20\Desktop\windows form\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.csprojResolveAssemblyReference.cache
+C:\Users\H20\Desktop\windows form\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.Form1.resources
+C:\Users\H20\Desktop\windows form\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.Properties.Resources.resources
+C:\Users\H20\Desktop\windows form\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.csproj.GenerateResource.Cache
+C:\Users\yamac\Downloads\ButtonYakala\ButtonYakala\ButtonYakala\bin\Debug\ButtonYakala.exe.config
+C:\Users\yamac\Downloads\ButtonYakala\ButtonYakala\ButtonYakala\bin\Debug\ButtonYakala.exe
+C:\Users\yamac\Downloads\ButtonYakala\ButtonYakala\ButtonYakala\bin\Debug\ButtonYakala.pdb
+C:\Users\yamac\Downloads\ButtonYakala\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.csproj.AssemblyReference.cache
+C:\Users\yamac\Downloads\ButtonYakala\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.Form1.resources
+C:\Users\yamac\Downloads\ButtonYakala\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.Properties.Resources.resources
+C:\Users\yamac\Downloads\ButtonYakala\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.csproj.GenerateResource.cache
+C:\Users\yamac\Downloads\ButtonYakala\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.csproj.CoreCompileInputs.cache
+C:\Users\yamac\Downloads\ButtonYakala\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.exe
+C:\Users\yamac\Downloads\ButtonYakala\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.pdb
+C:\Users\yamac\source\repos\Computer1\ButtonYakala\ButtonYakala\bin\Debug\ButtonYakala.exe.config
+C:\Users\yamac\source\repos\Computer1\ButtonYakala\ButtonYakala\bin\Debug\ButtonYakala.exe
+C:\Users\yamac\source\repos\Computer1\ButtonYakala\ButtonYakala\bin\Debug\ButtonYakala.pdb
+C:\Users\yamac\source\repos\Computer1\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.csproj.AssemblyReference.cache
+C:\Users\yamac\source\repos\Computer1\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.Form1.resources
+C:\Users\yamac\source\repos\Computer1\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.Properties.Resources.resources
+C:\Users\yamac\source\repos\Computer1\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.csproj.GenerateResource.cache
+C:\Users\yamac\source\repos\Computer1\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.csproj.CoreCompileInputs.cache
+C:\Users\yamac\source\repos\Computer1\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.exe
+C:\Users\yamac\source\repos\Computer1\ButtonYakala\ButtonYakala\obj\Debug\ButtonYakala.pdb
