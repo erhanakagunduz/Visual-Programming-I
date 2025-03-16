@@ -1,0 +1,11 @@
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ucuncu_projem\bin\Debug\ucuncu_projem.exe.config
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ucuncu_projem\bin\Debug\ucuncu_projem.exe
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ucuncu_projem\bin\Debug\ucuncu_projem.pdb
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ucuncu_projem\obj\Debug\ucuncu_projem.csproj.AssemblyReference.cache
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ucuncu_projem\obj\Debug\ucuncu_projem.Form1.resources
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ucuncu_projem\obj\Debug\ucuncu_projem.Properties.Resources.resources
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ucuncu_projem\obj\Debug\ucuncu_projem.csproj.GenerateResource.cache
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ucuncu_projem\obj\Debug\ucuncu_projem.csproj.CoreCompileInputs.cache
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ucuncu_projem\obj\Debug\ucuncu_projem.exe
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ucuncu_projem\obj\Debug\ucuncu_projem.pdb
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ucuncu_projem\obj\Debug\ucuncu_projem.Form2.resources

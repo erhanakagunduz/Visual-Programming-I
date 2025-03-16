@@ -1,0 +1,10 @@
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ikinci_projem\bin\Debug\ikinci_projem.exe.config
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ikinci_projem\bin\Debug\ikinci_projem.exe
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ikinci_projem\bin\Debug\ikinci_projem.pdb
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ikinci_projem\obj\Debug\ikinci_projem.csproj.AssemblyReference.cache
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ikinci_projem\obj\Debug\ikinci_projem.Form1.resources
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ikinci_projem\obj\Debug\ikinci_projem.Properties.Resources.resources
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ikinci_projem\obj\Debug\ikinci_projem.csproj.GenerateResource.cache
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ikinci_projem\obj\Debug\ikinci_projem.csproj.CoreCompileInputs.cache
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ikinci_projem\obj\Debug\ikinci_projem.exe
+C:\Users\yamac\Documents\GitHub\Visual-Programming-I\02-Second Application\ikinci_projem\obj\Debug\ikinci_projem.pdb
